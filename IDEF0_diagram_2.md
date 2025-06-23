@@ -63,7 +63,7 @@ graph TD
 
 ```mermaid
 graph TD
-    subgraph A0_Decomposition [A0: Этапы сессии "Пре-сессия / Знакомство"]
+    subgraph A0_Decomposition [A0: Этапы сессии "Пре-сессия" и "Знакомство"]
 
         %% Process Blocks from AOJ3.md
         A1["<b>A1: Приветствие<br/>и Настройка</b>"]
